@@ -85,7 +85,7 @@ Simulated data; stage hours follow a fixed 20/30/40/10 split; no queue times or 
 
 ## AI use
 
-Claude (Anthropic) helped draft the code and run the validation; Gemini described the dataset fields and runs inside the agent; Google AI Studio builds and hosts the app. Problem framing, tool evaluation, design direction and verification were my own.
+Claude code helped me in coding ; Gemini described the dataset fields and runs inside the agent; Google AI Studio builds and hosts the app. Problem framing, tool evaluation, design direction and verification were my own.
 
 ## Author
 
